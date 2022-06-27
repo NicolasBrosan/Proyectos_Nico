@@ -1,0 +1,16 @@
+C:\Users\nicol\OneDrive\Escritorio\Proyectos_C#\Ejejrcicio1_Github\Ejejrcicio1_Github\bin\Debug\net5.0\Ejejrcicio1_Github.exe
+C:\Users\nicol\OneDrive\Escritorio\Proyectos_C#\Ejejrcicio1_Github\Ejejrcicio1_Github\bin\Debug\net5.0\Ejejrcicio1_Github.deps.json
+C:\Users\nicol\OneDrive\Escritorio\Proyectos_C#\Ejejrcicio1_Github\Ejejrcicio1_Github\bin\Debug\net5.0\Ejejrcicio1_Github.runtimeconfig.json
+C:\Users\nicol\OneDrive\Escritorio\Proyectos_C#\Ejejrcicio1_Github\Ejejrcicio1_Github\bin\Debug\net5.0\Ejejrcicio1_Github.runtimeconfig.dev.json
+C:\Users\nicol\OneDrive\Escritorio\Proyectos_C#\Ejejrcicio1_Github\Ejejrcicio1_Github\bin\Debug\net5.0\Ejejrcicio1_Github.dll
+C:\Users\nicol\OneDrive\Escritorio\Proyectos_C#\Ejejrcicio1_Github\Ejejrcicio1_Github\bin\Debug\net5.0\Ejejrcicio1_Github.pdb
+C:\Users\nicol\OneDrive\Escritorio\Proyectos_C#\Ejejrcicio1_Github\Ejejrcicio1_Github\obj\Debug\net5.0\Ejejrcicio1_Github.csproj.AssemblyReference.cache
+C:\Users\nicol\OneDrive\Escritorio\Proyectos_C#\Ejejrcicio1_Github\Ejejrcicio1_Github\obj\Debug\net5.0\Ejejrcicio1_Github.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\OneDrive\Escritorio\Proyectos_C#\Ejejrcicio1_Github\Ejejrcicio1_Github\obj\Debug\net5.0\Ejejrcicio1_Github.AssemblyInfoInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\Proyectos_C#\Ejejrcicio1_Github\Ejejrcicio1_Github\obj\Debug\net5.0\Ejejrcicio1_Github.AssemblyInfo.cs
+C:\Users\nicol\OneDrive\Escritorio\Proyectos_C#\Ejejrcicio1_Github\Ejejrcicio1_Github\obj\Debug\net5.0\Ejejrcicio1_Github.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\Proyectos_C#\Ejejrcicio1_Github\Ejejrcicio1_Github\obj\Debug\net5.0\Ejejrcicio1_Github.dll
+C:\Users\nicol\OneDrive\Escritorio\Proyectos_C#\Ejejrcicio1_Github\Ejejrcicio1_Github\obj\Debug\net5.0\ref\Ejejrcicio1_Github.dll
+C:\Users\nicol\OneDrive\Escritorio\Proyectos_C#\Ejejrcicio1_Github\Ejejrcicio1_Github\obj\Debug\net5.0\Ejejrcicio1_Github.pdb
+C:\Users\nicol\OneDrive\Escritorio\Proyectos_C#\Ejejrcicio1_Github\Ejejrcicio1_Github\obj\Debug\net5.0\Ejejrcicio1_Github.genruntimeconfig.cache
+C:\Users\nicol\OneDrive\Escritorio\Proyectos_C#\Ejejrcicio1_Github\Ejejrcicio1_Github\obj\Debug\net5.0\refint\Ejejrcicio1_Github.dll
